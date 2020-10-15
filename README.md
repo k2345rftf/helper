@@ -1,6 +1,6 @@
 # Laravel
 ## Установка:
-```php
+```shell
 composer create-project laravel/laravel name_field
 ```
 ### Установка дополнительных модулей для работы в phpStorm:
@@ -10,5 +10,7 @@ composer create-project laravel/laravel name_field
  
  
 ## Создание моделей с миграцией:
+```shell
 php artisan make:model ModelName -m
+```
 
