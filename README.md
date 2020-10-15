@@ -14,3 +14,7 @@ composer create-project laravel/laravel name_field
 php artisan make:model ModelName -m
 ```
 
+## Создание контроллера:
+```shell
+php artisan make:controller ModelNameController
+```
